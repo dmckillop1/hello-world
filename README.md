@@ -1,3 +1,3 @@
 # hello-world
 
-Whats up, Im learning to use this Github thang.
+Whats up, Im learning to use this Github thang!
